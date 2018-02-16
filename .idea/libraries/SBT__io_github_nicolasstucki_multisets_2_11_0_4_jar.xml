@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: io.github.nicolasstucki:multisets_2.11:0.4:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/io.github.nicolasstucki/multisets_2.11/jars/multisets_2.11-0.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/io.github.nicolasstucki/multisets_2.11/srcs/multisets_2.11-0.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

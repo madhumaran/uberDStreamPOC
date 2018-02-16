@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Feb 13 21:54:53 PST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance a816c00e-0161-92e1-49e3-00000c6dad50 
+on database directory /home/madhu/POC_UBER/uberTest/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@340a8894 
+Loaded from file:/home/madhu/.ivy2/cache/org.apache.derby/derby/jars/derby-10.10.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_144-b01
+user.dir=/home/madhu/POC_UBER/uberTest
+os.name=Linux
+os.arch=amd64
+os.version=3.2.0-126-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
